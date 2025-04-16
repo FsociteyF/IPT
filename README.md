@@ -12,10 +12,15 @@ Requirements:
 nmap 
 
 How to install: 
+
 pip install python3 
+
 pip install nmap 
+
 git clone https://github.com/FsociteyF/IPT.git 
+
 cd IPT
+
  python3 IPT.py 
 
 
@@ -43,9 +48,13 @@ nmap
 كيفية تثبيت : 
 
 pip install python3
+
 pip install nmap 
+
 git clone https://github.com/FsociteyF/IPT.git 
+
 cd IPT 
+
 python3 IPT.py 
 
 اي مشكلة تستطيع تواصل معي على https://fsocitey.tiiny.site/
