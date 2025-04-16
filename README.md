@@ -9,6 +9,7 @@ Features: 1. Track IP addresses directly on Google Maps
 Requirements:
 
  python3 
+ 
 nmap 
 
 How to install: 
@@ -43,6 +44,7 @@ Any problems, you can contact me at https://fsocitey.tiiny.site/
 المتطلبات : 
 
 python3 
+
 nmap 
 
 كيفية تثبيت : 
