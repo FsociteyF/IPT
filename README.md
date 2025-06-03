@@ -1,4 +1,4 @@
-This tool tracks IP addresses and is available in Arabic and English. 
+## This tool tracks IP addresses and is available in Arabic and English. 
 
 Features: 1. Track IP addresses directly on Google Maps
 
@@ -6,13 +6,15 @@ Features: 1. Track IP addresses directly on Google Maps
 
 3. Scan for open ports (you specify) 
 
-Requirements:
+## Requirements:
 
  python3 
  
 nmap 
 
-How to install: 
+## How to install: 
+
+bash``` 
 
 pip install python3 
 
