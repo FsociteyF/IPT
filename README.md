@@ -14,7 +14,7 @@ nmap
 
 ## How to install: 
 
-bash``` 
+```bash 
 
 pip install python3 
 
@@ -24,8 +24,9 @@ git clone https://github.com/FsociteyF/IPT.git
 
 cd IPT
 
- python3 IPT.py 
+python3 IPT.py
 
+```
 
 Any problems, you can contact me at https://fsocitey.tiiny.site/
 
@@ -38,7 +39,7 @@ Any problems, you can contact me at https://fsocitey.tiiny.site/
 
 
 
-هذه الاداة لتعقب عنوان الايبي وهي باللغة العربية والانكليزية . 
+## هذه الاداة لتعقب عنوان الايبي وهي باللغة العربية والانكليزية . 
 
 المميزات : 
 
@@ -48,13 +49,14 @@ Any problems, you can contact me at https://fsocitey.tiiny.site/
 
 3 فحص البورتات المفتوحة ( انت تحددها ) 
 
-المتطلبات : 
+## المتطلبات : 
 
 python3 
 
 nmap 
 
-كيفية تثبيت : 
+## كيفية تثبيت : 
+```bash
 
 pip install python3
 
@@ -64,7 +66,9 @@ git clone https://github.com/FsociteyF/IPT.git
 
 cd IPT 
 
-python3 IPT.py 
+python3 IPT.py
+
+```
 
 اي مشكلة تستطيع تواصل معي على https://fsocitey.tiiny.site/
 
