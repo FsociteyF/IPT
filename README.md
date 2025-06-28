@@ -28,7 +28,7 @@ python3 IPT.py
 
 ```
 
-Any problems, you can contact me at https://fsocitey.tiiny.site/
+Any problems, you can contact me at https://fsocitey.neocities.org/
 
 
  😊 Good luck.
@@ -70,6 +70,6 @@ python3 IPT.py
 
 ```
 
-اي مشكلة تستطيع تواصل معي على https://fsocitey.tiiny.site/
+اي مشكلة تستطيع تواصل معي على https://fsocitey.neocities.org/
 
 😊 بتوفيق 
